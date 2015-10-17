@@ -1,0 +1,28 @@
+{
+  "name": "configjs.js",
+  "main": "configjs.js",
+  "homepage": "https://github.com/jaffog/configjs",
+  "authors": [
+    "Michiel Bakker <jaffog@gmail.com>"
+  ],
+  "description": "A tiny API for storing conffiguration options, written in vanilla JavaScript.",
+  "moduleType": [],
+  "keywords": [
+    "config",
+    "api",
+    "library",
+    "tiny",
+    "small"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "namespacejs": "namespacejs.js#~0.2.3"
+  }
+}
